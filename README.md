@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
+[<img align="left" alt="github.com/anjeshshrestha/ | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="shrestha.cc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="linkedin.com/in/anjesh-shrestha-7a723999/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram.com/anjeshshrestha_/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="github.com/anjeshshrestha/ | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br />
 
@@ -40,3 +40,4 @@
 [website]: https://shrestha.cc
 [instagram]: https://instagram.com/anjeshshrestha_
 [linkedin]: https://linkedin.com/in/anjesh-shrestha-7a723999
+[github]: https://github.com/anjeshshrestha
