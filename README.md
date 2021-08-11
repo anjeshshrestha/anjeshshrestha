@@ -1,7 +1,7 @@
 ### Hi there, I'm Anjesh 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [___][website]!
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: The Odin Project
 - ⚡ Fun fact: I love to play games, break code
