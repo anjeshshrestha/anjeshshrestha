@@ -2,8 +2,8 @@
 
 ## I'm a Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Finish projects
+- 🌱 I’m currently learning everything
+- 🥅 2021 Goals: The Odin Project
 - ⚡ Fun fact: I love to play games, break code
 
 ### Connect with me:
