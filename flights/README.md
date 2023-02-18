@@ -1,6 +1,6 @@
 Website to check flights:
 
-##Look for flights on your own:
+## Look for flights on your own:
 - [Google Flighs][google flights]
 - [Matrix Search][matrix]
 - [FlightHub][flighthub]
@@ -8,7 +8,7 @@ Website to check flights:
 
 <br />
 
-##Agent Flgiht, they can price match
+## Agent Flgiht, they can price match
 - [Asap][asap]
 
 ---
