@@ -1,15 +1,15 @@
 Website to check flights:
 
 ##Look for flights on your own:
--[Google Flighs][google flights]
--[Matrix Search][matrix]
--[FlightHub][flighthub]
--[CheapOAir][cheapoair]
+- [Google Flighs][google flights]
+- [Matrix Search][matrix]
+- [FlightHub][flighthub]
+- [CheapOAir][cheapoair]
 
 <br />
 
 ##Agent Flgiht, they can price match
--[Asap][asap]
+- [Asap][asap]
 
 ---
 
