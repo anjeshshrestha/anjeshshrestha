@@ -8,7 +8,7 @@ Website to check flights:
 
 <br />
 
-## Agent Flgiht, they can price match
+## Flight Agent, they can price match
 - [Asap][asap]
 
 ---
