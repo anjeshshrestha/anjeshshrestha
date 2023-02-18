@@ -1,16 +1,20 @@
 Website to check flights:
 
-Look for flights on your own:
+##Look for flights on your own:
+-[Google Flighs][google flights]
+-[Matrix Search][matrix]
+-[FlightHub][flighthub]
+-[CheapOAir][cheapoair]
 
-https://www.google.com/flights
+<br />
 
-https://matrix.itasoftware.com/search
+##Agent Flgiht, they can price match
+-[Asap][asap]
 
-https://www.flighthub.com/
+---
 
-https://www.cheapoair.com/
-
-
-Agent Flgiht, they can price match
-
-https://www.asaptickets.com/
+[google flights]: https://www.google.com/flights
+[matrix]: https://matrix.itasoftware.com/search
+[flighthub]: https://www.flighthub.com
+[cheapoair]: https://www.cheapoair.com
+[asap]: https://www.asaptickets.com
