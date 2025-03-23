@@ -1,8 +1,8 @@
 
 ## Links to torrent:
-- [ext.to torrent site][https://ext.to]
-- [qbit downloader][https://qbit.shrestha.cc]
-- [synology][https://synology.shrestha.cc]
+- [ext.to torrent site](https://ext.to)
+- [qbit downloader](https://qbit.shrestha.cc)
+- [synology](https://synology.shrestha.cc)
 - File is downloaded to: file manager -> docker -> qbittorrent -> downloads
 - Plex: file manager -> Plex -> Movies/Shows
 
