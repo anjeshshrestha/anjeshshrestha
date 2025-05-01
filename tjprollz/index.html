@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>TJP Rollz Redirect</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    window.onload = function () {
+      const appLink = "instagram://user?username=rollzicecreams";
+      const webLink = "https://www.instagram.com/rollzicecreams/?hl=en";
+
+      // Try to open the Instagram app
+      const now = Date.now();
+      setTimeout(function () {
+        // If the app didn't open, fallback to the web version
+        if (Date.now() - now < 1500) {
+          window.location.href = webLink;
+        }
+      }, 1000);
+
+      // This will trigger the app if it's installed
+      window.location.href = appLink;
+    };
+  </script>
+</head>
+<body>
+  <p>Redirecting to Instagram...</p>
+</body>
+</html>
